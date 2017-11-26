@@ -35,7 +35,11 @@ int main() {
 	(*datasetTemplate).setColumnIndexes(columnIndexes);
 
 	Dataset *trainingDataSet = new Dataset(datasetTemplate, lines, false);
+
+	cout << "Dataset preparing process..." << endl;
 	(*trainingDataSet).createDataset();
+
+	cout << "Dataset printing process..." << endl;
 	(*trainingDataSet).printAllDataRows();
 
 	return 0;

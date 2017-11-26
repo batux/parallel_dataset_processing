@@ -42,7 +42,7 @@ void Dataset::createDataset() {
 				#pragma omp task firstprivate(listItem) shared(rowIndex, dataRow)
 				{
 					dataRow = (*this->dataRowProvider).processTextRowData((*listItem), (*this->datasetTemplate));
-					cout << "Data Row - T-Id: " <<  omp_get_thread_num() << "Data Row Index: " << rowIndex << endl;
+					cout << "Thread Id: " <<  omp_get_thread_num() << " Data Row Index: " << rowIndex << endl;
 					rowIndex++;
 				}
 				#pragma omp taskwait
@@ -50,7 +50,6 @@ void Dataset::createDataset() {
 				#pragma omp task shared(rowIndex, dataRow)
 				{
 					appendDataRow(dataRow);
-					//cout << "Appender - T-Id: " <<  omp_get_thread_num() << "Data Row Index: " << rowIndex << endl;
 				}
 			}
 		}
@@ -63,14 +62,24 @@ void Dataset::appendDataRow(DataRow *dataRow) {
 
 void Dataset::printAllDataRows() {
 
-	int counter = 0;
-
-	for(list<DataRow*>::iterator dataRow = this->dataRows.begin(); dataRow != this->dataRows.end(); dataRow++)
+	#pragma omp parallel
 	{
-		string dataItemAsText = (*dataRow)->toString();
+		int counter = 0;
 
-	    cout << "id: " << counter << "[ " << dataItemAsText << " ]" << endl;
-	    counter++;
+		#pragma omp single
+		{
+			for(list<DataRow*>::iterator dataRow = this->dataRows.begin(); dataRow != this->dataRows.end(); dataRow++)
+			{
+				#pragma omp task firstprivate(dataRow) shared(counter)
+				{
+					string dataItemAsText = (*dataRow)->toString();
+
+					cout << "Thread Id: " << omp_get_thread_num() << " Data Id: " << counter << "[ " << dataItemAsText << " ]" << endl;
+					counter++;
+				}
+				#pragma omp taskwait
+			}
+		}
 	}
 }
 
