@@ -1,0 +1,1383 @@
+Dataset preparing process...
+Thread Id: 0 Data Row Index: 0
+Thread Id: 0 Data Row Index: 1
+Thread Id: 0 Data Row Index: 2
+Thread Id: 0 Data Row Index: 3
+Thread Id: 0 Data Row Index: 4
+Thread Id: 0 Data Row Index: 5
+Thread Id: 0 Data Row Index: 6
+Thread Id: 0 Data Row Index: 7
+Thread Id: 0 Data Row Index: 8
+Thread Id: 0 Data Row Index: 9
+Thread Id: 0 Data Row Index: 10
+Thread Id: 0 Data Row Index: 11
+Thread Id: 0 Data Row Index: 12
+Thread Id: 0 Data Row Index: 13
+Thread Id: 0 Data Row Index: 14
+Thread Id: 0 Data Row Index: 15
+Thread Id: 0 Data Row Index: 16
+Thread Id: 0 Data Row Index: 17
+Thread Id: 0 Data Row Index: 18
+Thread Id: 0 Data Row Index: 19
+Thread Id: 0 Data Row Index: 20
+Thread Id: 0 Data Row Index: 21
+Thread Id: 0 Data Row Index: 22
+Thread Id: 0 Data Row Index: 23
+Thread Id: 0 Data Row Index: 24
+Thread Id: 0 Data Row Index: 25
+Thread Id: 0 Data Row Index: 26
+Thread Id: 0 Data Row Index: 27
+Thread Id: 0 Data Row Index: 28
+Thread Id: 0 Data Row Index: 29
+Thread Id: 0 Data Row Index: 30
+Thread Id: 0 Data Row Index: 31
+Thread Id: 0 Data Row Index: 32
+Thread Id: 0 Data Row Index: 33
+Thread Id: 0 Data Row Index: 34
+Thread Id: 0 Data Row Index: 35
+Thread Id: 0 Data Row Index: 36
+Thread Id: 0 Data Row Index: 37
+Thread Id: 0 Data Row Index: 38
+Thread Id: 0 Data Row Index: 39
+Thread Id: 0 Data Row Index: 40
+Thread Id: 0 Data Row Index: 41
+Thread Id: 0 Data Row Index: 42
+Thread Id: 0 Data Row Index: 43
+Thread Id: 0 Data Row Index: 44
+Thread Id: 0 Data Row Index: 45
+Thread Id: 0 Data Row Index: 46
+Thread Id: 0 Data Row Index: 47
+Thread Id: 0 Data Row Index: 48
+Thread Id: 0 Data Row Index: 49
+Thread Id: 0 Data Row Index: 50
+Thread Id: 0 Data Row Index: 51
+Thread Id: 0 Data Row Index: 52
+Thread Id: 0 Data Row Index: 53
+Thread Id: 0 Data Row Index: 54
+Thread Id: 0 Data Row Index: 55
+Thread Id: 0 Data Row Index: 56
+Thread Id: 0 Data Row Index: 57
+Thread Id: 0 Data Row Index: 58
+Thread Id: 0 Data Row Index: 59
+Thread Id: 0 Data Row Index: 60
+Thread Id: 0 Data Row Index: 61
+Thread Id: 0 Data Row Index: 62
+Thread Id: 0 Data Row Index: 63
+Thread Id: 0 Data Row Index: 64
+Thread Id: 0 Data Row Index: 65
+Thread Id: 0 Data Row Index: 66
+Thread Id: 0 Data Row Index: 67
+Thread Id: 0 Data Row Index: 68
+Thread Id: 0 Data Row Index: 69
+Thread Id: 0 Data Row Index: 70
+Thread Id: 0 Data Row Index: 71
+Thread Id: 0 Data Row Index: 72
+Thread Id: 0 Data Row Index: 73
+Thread Id: 0 Data Row Index: 74
+Thread Id: 0 Data Row Index: 75
+Thread Id: 0 Data Row Index: 76
+Thread Id: 0 Data Row Index: 77
+Thread Id: 0 Data Row Index: 78
+Thread Id: 0 Data Row Index: 79
+Thread Id: 0 Data Row Index: 80
+Thread Id: 0 Data Row Index: 81
+Thread Id: 0 Data Row Index: 82
+Thread Id: 0 Data Row Index: 83
+Thread Id: 0 Data Row Index: 84
+Thread Id: 0 Data Row Index: 85
+Thread Id: 0 Data Row Index: 86
+Thread Id: 0 Data Row Index: 87
+Thread Id: 0 Data Row Index: 88
+Thread Id: 0 Data Row Index: 89
+Thread Id: 0 Data Row Index: 90
+Thread Id: 0 Data Row Index: 91
+Thread Id: 0 Data Row Index: 92
+Thread Id: 0 Data Row Index: 93
+Thread Id: 0 Data Row Index: 94
+Thread Id: 0 Data Row Index: 95
+Thread Id: 0 Data Row Index: 96
+Thread Id: 0 Data Row Index: 97
+Thread Id: 0 Data Row Index: 98
+Thread Id: 0 Data Row Index: 99
+Thread Id: 0 Data Row Index: 100
+Thread Id: 0 Data Row Index: 101
+Thread Id: 0 Data Row Index: 102
+Thread Id: 0 Data Row Index: 103
+Thread Id: 0 Data Row Index: 104
+Thread Id: 0 Data Row Index: 105
+Thread Id: 0 Data Row Index: 106
+Thread Id: 0 Data Row Index: 107
+Thread Id: 0 Data Row Index: 108
+Thread Id: 0 Data Row Index: 109
+Thread Id: 0 Data Row Index: 110
+Thread Id: 0 Data Row Index: 111
+Thread Id: 0 Data Row Index: 112
+Thread Id: 0 Data Row Index: 113
+Thread Id: 0 Data Row Index: 114
+Thread Id: 0 Data Row Index: 115
+Thread Id: 0 Data Row Index: 116
+Thread Id: 0 Data Row Index: 117
+Thread Id: 0 Data Row Index: 118
+Thread Id: 0 Data Row Index: 119
+Thread Id: 0 Data Row Index: 120
+Thread Id: 0 Data Row Index: 121
+Thread Id: 0 Data Row Index: 122
+Thread Id: 0 Data Row Index: 123
+Thread Id: 0 Data Row Index: 124
+Thread Id: 0 Data Row Index: 125
+Thread Id: 0 Data Row Index: 126
+Thread Id: 0 Data Row Index: 127
+Thread Id: 0 Data Row Index: 128
+Thread Id: 0 Data Row Index: 129
+Thread Id: 0 Data Row Index: 130
+Thread Id: 0 Data Row Index: 131
+Thread Id: 0 Data Row Index: 132
+Thread Id: 0 Data Row Index: 133
+Thread Id: 0 Data Row Index: 134
+Thread Id: 0 Data Row Index: 135
+Thread Id: 0 Data Row Index: 136
+Thread Id: 0 Data Row Index: 137
+Thread Id: 0 Data Row Index: 138
+Thread Id: 0 Data Row Index: 139
+Thread Id: 0 Data Row Index: 140
+Thread Id: 0 Data Row Index: 141
+Thread Id: 0 Data Row Index: 142
+Thread Id: 0 Data Row Index: 143
+Thread Id: 0 Data Row Index: 144
+Thread Id: 0 Data Row Index: 145
+Thread Id: 0 Data Row Index: 146
+Thread Id: 0 Data Row Index: 147
+Thread Id: 0 Data Row Index: 148
+Thread Id: 0 Data Row Index: 149
+Thread Id: 0 Data Row Index: 150
+Thread Id: 0 Data Row Index: 151
+Thread Id: 0 Data Row Index: 152
+Thread Id: 0 Data Row Index: 153
+Thread Id: 0 Data Row Index: 154
+Thread Id: 0 Data Row Index: 155
+Thread Id: 0 Data Row Index: 156
+Thread Id: 0 Data Row Index: 157
+Thread Id: 0 Data Row Index: 158
+Thread Id: 0 Data Row Index: 159
+Thread Id: 0 Data Row Index: 160
+Thread Id: 0 Data Row Index: 161
+Thread Id: 0 Data Row Index: 162
+Thread Id: 0 Data Row Index: 163
+Thread Id: 0 Data Row Index: 164
+Thread Id: 0 Data Row Index: 165
+Thread Id: 0 Data Row Index: 166
+Thread Id: 0 Data Row Index: 167
+Thread Id: 0 Data Row Index: 168
+Thread Id: 0 Data Row Index: 169
+Thread Id: 0 Data Row Index: 170
+Thread Id: 0 Data Row Index: 171
+Thread Id: 0 Data Row Index: 172
+Thread Id: 0 Data Row Index: 173
+Thread Id: 0 Data Row Index: 174
+Thread Id: 0 Data Row Index: 175
+Thread Id: 0 Data Row Index: 176
+Thread Id: 0 Data Row Index: 177
+Thread Id: 0 Data Row Index: 178
+Thread Id: 0 Data Row Index: 179
+Thread Id: 0 Data Row Index: 180
+Thread Id: 0 Data Row Index: 181
+Thread Id: 0 Data Row Index: 182
+Thread Id: 0 Data Row Index: 183
+Thread Id: 0 Data Row Index: 184
+Thread Id: 0 Data Row Index: 185
+Thread Id: 0 Data Row Index: 186
+Thread Id: 0 Data Row Index: 187
+Thread Id: 0 Data Row Index: 188
+Thread Id: 0 Data Row Index: 189
+Thread Id: 0 Data Row Index: 190
+Thread Id: 0 Data Row Index: 191
+Thread Id: 0 Data Row Index: 192
+Thread Id: 0 Data Row Index: 193
+Thread Id: 0 Data Row Index: 194
+Thread Id: 0 Data Row Index: 195
+Thread Id: 0 Data Row Index: 196
+Thread Id: 0 Data Row Index: 197
+Thread Id: 0 Data Row Index: 198
+Thread Id: 0 Data Row Index: 199
+Thread Id: 0 Data Row Index: 200
+Thread Id: 0 Data Row Index: 201
+Thread Id: 0 Data Row Index: 202
+Thread Id: 0 Data Row Index: 203
+Thread Id: 0 Data Row Index: 204
+Thread Id: 0 Data Row Index: 205
+Thread Id: 0 Data Row Index: 206
+Thread Id: 0 Data Row Index: 207
+Thread Id: 0 Data Row Index: 208
+Thread Id: 0 Data Row Index: 209
+Thread Id: 0 Data Row Index: 210
+Thread Id: 0 Data Row Index: 211
+Thread Id: 0 Data Row Index: 212
+Thread Id: 0 Data Row Index: 213
+Thread Id: 0 Data Row Index: 214
+Thread Id: 0 Data Row Index: 215
+Thread Id: 0 Data Row Index: 216
+Thread Id: 0 Data Row Index: 217
+Thread Id: 0 Data Row Index: 218
+Thread Id: 0 Data Row Index: 219
+Thread Id: 0 Data Row Index: 220
+Thread Id: 0 Data Row Index: 221
+Thread Id: 0 Data Row Index: 222
+Thread Id: 0 Data Row Index: 223
+Thread Id: 0 Data Row Index: 224
+Thread Id: 0 Data Row Index: 225
+Thread Id: 0 Data Row Index: 226
+Thread Id: 0 Data Row Index: 227
+Thread Id: 0 Data Row Index: 228
+Thread Id: 0 Data Row Index: 229
+Thread Id: 0 Data Row Index: 230
+Thread Id: 0 Data Row Index: 231
+Thread Id: 0 Data Row Index: 232
+Thread Id: 0 Data Row Index: 233
+Thread Id: 0 Data Row Index: 234
+Thread Id: 0 Data Row Index: 235
+Thread Id: 0 Data Row Index: 236
+Thread Id: 0 Data Row Index: 237
+Thread Id: 0 Data Row Index: 238
+Thread Id: 0 Data Row Index: 239
+Thread Id: 0 Data Row Index: 240
+Thread Id: 0 Data Row Index: 241
+Thread Id: 0 Data Row Index: 242
+Thread Id: 0 Data Row Index: 243
+Thread Id: 0 Data Row Index: 244
+Thread Id: 0 Data Row Index: 245
+Thread Id: 0 Data Row Index: 246
+Thread Id: 0 Data Row Index: 247
+Thread Id: 0 Data Row Index: 248
+Thread Id: 0 Data Row Index: 249
+Thread Id: 0 Data Row Index: 250
+Thread Id: 0 Data Row Index: 251
+Thread Id: 0 Data Row Index: 252
+Thread Id: 0 Data Row Index: 253
+Thread Id: 0 Data Row Index: 254
+Thread Id: 0 Data Row Index: 255
+Thread Id: 0 Data Row Index: 256
+Thread Id: 0 Data Row Index: 257
+Thread Id: 0 Data Row Index: 258
+Thread Id: 0 Data Row Index: 259
+Thread Id: 0 Data Row Index: 260
+Thread Id: 0 Data Row Index: 261
+Thread Id: 0 Data Row Index: 262
+Thread Id: 0 Data Row Index: 263
+Thread Id: 0 Data Row Index: 264
+Thread Id: 0 Data Row Index: 265
+Thread Id: 0 Data Row Index: 266
+Thread Id: 0 Data Row Index: 267
+Thread Id: 0 Data Row Index: 268
+Thread Id: 0 Data Row Index: 269
+Thread Id: 0 Data Row Index: 270
+Thread Id: 0 Data Row Index: 271
+Thread Id: 0 Data Row Index: 272
+Thread Id: 0 Data Row Index: 273
+Thread Id: 0 Data Row Index: 274
+Thread Id: 0 Data Row Index: 275
+Thread Id: 0 Data Row Index: 276
+Thread Id: 0 Data Row Index: 277
+Thread Id: 0 Data Row Index: 278
+Thread Id: 0 Data Row Index: 279
+Thread Id: 0 Data Row Index: 280
+Thread Id: 0 Data Row Index: 281
+Thread Id: 0 Data Row Index: 282
+Thread Id: 0 Data Row Index: 283
+Thread Id: 0 Data Row Index: 284
+Thread Id: 0 Data Row Index: 285
+Thread Id: 0 Data Row Index: 286
+Thread Id: 0 Data Row Index: 287
+Thread Id: 0 Data Row Index: 288
+Thread Id: 0 Data Row Index: 289
+Thread Id: 0 Data Row Index: 290
+Thread Id: 0 Data Row Index: 291
+Thread Id: 0 Data Row Index: 292
+Thread Id: 0 Data Row Index: 293
+Thread Id: 0 Data Row Index: 294
+Thread Id: 0 Data Row Index: 295
+Thread Id: 0 Data Row Index: 296
+Thread Id: 0 Data Row Index: 297
+Thread Id: 0 Data Row Index: 298
+Thread Id: 0 Data Row Index: 299
+Thread Id: 0 Data Row Index: 300
+Thread Id: 0 Data Row Index: 301
+Thread Id: 0 Data Row Index: 302
+Thread Id: 0 Data Row Index: 303
+Thread Id: 0 Data Row Index: 304
+Thread Id: 0 Data Row Index: 305
+Thread Id: 0 Data Row Index: 306
+Thread Id: 0 Data Row Index: 307
+Thread Id: 0 Data Row Index: 308
+Thread Id: 0 Data Row Index: 309
+Thread Id: 0 Data Row Index: 310
+Thread Id: 0 Data Row Index: 311
+Thread Id: 0 Data Row Index: 312
+Thread Id: 0 Data Row Index: 313
+Thread Id: 0 Data Row Index: 314
+Thread Id: 0 Data Row Index: 315
+Thread Id: 0 Data Row Index: 316
+Thread Id: 0 Data Row Index: 317
+Thread Id: 0 Data Row Index: 318
+Thread Id: 0 Data Row Index: 319
+Thread Id: 0 Data Row Index: 320
+Thread Id: 0 Data Row Index: 321
+Thread Id: 0 Data Row Index: 322
+Thread Id: 0 Data Row Index: 323
+Thread Id: 0 Data Row Index: 324
+Thread Id: 0 Data Row Index: 325
+Thread Id: 0 Data Row Index: 326
+Thread Id: 0 Data Row Index: 327
+Thread Id: 0 Data Row Index: 328
+Thread Id: 0 Data Row Index: 329
+Thread Id: 0 Data Row Index: 330
+Thread Id: 0 Data Row Index: 331
+Thread Id: 0 Data Row Index: 332
+Thread Id: 0 Data Row Index: 333
+Thread Id: 0 Data Row Index: 334
+Thread Id: 0 Data Row Index: 335
+Thread Id: 0 Data Row Index: 336
+Thread Id: 0 Data Row Index: 337
+Thread Id: 0 Data Row Index: 338
+Thread Id: 0 Data Row Index: 339
+Thread Id: 0 Data Row Index: 340
+Thread Id: 0 Data Row Index: 341
+Thread Id: 0 Data Row Index: 342
+Thread Id: 0 Data Row Index: 343
+Thread Id: 0 Data Row Index: 344
+Thread Id: 0 Data Row Index: 345
+Thread Id: 0 Data Row Index: 346
+Thread Id: 0 Data Row Index: 347
+Thread Id: 0 Data Row Index: 348
+Thread Id: 0 Data Row Index: 349
+Thread Id: 0 Data Row Index: 350
+Thread Id: 0 Data Row Index: 351
+Thread Id: 0 Data Row Index: 352
+Thread Id: 0 Data Row Index: 353
+Thread Id: 0 Data Row Index: 354
+Thread Id: 0 Data Row Index: 355
+Thread Id: 0 Data Row Index: 356
+Thread Id: 0 Data Row Index: 357
+Thread Id: 0 Data Row Index: 358
+Thread Id: 0 Data Row Index: 359
+Thread Id: 0 Data Row Index: 360
+Thread Id: 0 Data Row Index: 361
+Thread Id: 0 Data Row Index: 362
+Thread Id: 0 Data Row Index: 363
+Thread Id: 0 Data Row Index: 364
+Thread Id: 0 Data Row Index: 365
+Thread Id: 0 Data Row Index: 366
+Thread Id: 0 Data Row Index: 367
+Thread Id: 0 Data Row Index: 368
+Thread Id: 0 Data Row Index: 369
+Thread Id: 0 Data Row Index: 370
+Thread Id: 0 Data Row Index: 371
+Thread Id: 0 Data Row Index: 372
+Thread Id: 0 Data Row Index: 373
+Thread Id: 0 Data Row Index: 374
+Thread Id: 0 Data Row Index: 375
+Thread Id: 0 Data Row Index: 376
+Thread Id: 0 Data Row Index: 377
+Thread Id: 0 Data Row Index: 378
+Thread Id: 0 Data Row Index: 379
+Thread Id: 0 Data Row Index: 380
+Thread Id: 0 Data Row Index: 381
+Thread Id: 0 Data Row Index: 382
+Thread Id: 0 Data Row Index: 383
+Thread Id: 0 Data Row Index: 384
+Thread Id: 0 Data Row Index: 385
+Thread Id: 0 Data Row Index: 386
+Thread Id: 0 Data Row Index: 387
+Thread Id: 0 Data Row Index: 388
+Thread Id: 0 Data Row Index: 389
+Thread Id: 0 Data Row Index: 390
+Thread Id: 0 Data Row Index: 391
+Thread Id: 0 Data Row Index: 392
+Thread Id: 0 Data Row Index: 393
+Thread Id: 0 Data Row Index: 394
+Thread Id: 0 Data Row Index: 395
+Thread Id: 0 Data Row Index: 396
+Thread Id: 0 Data Row Index: 397
+Thread Id: 0 Data Row Index: 398
+Thread Id: 0 Data Row Index: 399
+Thread Id: 0 Data Row Index: 400
+Thread Id: 0 Data Row Index: 401
+Thread Id: 0 Data Row Index: 402
+Thread Id: 0 Data Row Index: 403
+Thread Id: 0 Data Row Index: 404
+Thread Id: 0 Data Row Index: 405
+Thread Id: 0 Data Row Index: 406
+Thread Id: 0 Data Row Index: 407
+Thread Id: 0 Data Row Index: 408
+Thread Id: 0 Data Row Index: 409
+Thread Id: 2 Data Row Index: 410
+Thread Id: 2 Data Row Index: 411
+Thread Id: 2 Data Row Index: 412
+Thread Id: 2 Data Row Index: 413
+Thread Id: 2 Data Row Index: 414
+Thread Id: 0 Data Row Index: 415
+Thread Id: 2 Data Row Index: 416
+Thread Id: 0 Data Row Index: 417
+Thread Id: 0 Data Row Index: 418
+Thread Id: 0 Data Row Index: 419
+Thread Id: 0 Data Row Index: 420
+Thread Id: 2 Data Row Index: 421
+Thread Id: 0 Data Row Index: 422
+Thread Id: 0 Data Row Index: 423
+Thread Id: 2 Data Row Index: 424
+Thread Id: 0 Data Row Index: 425
+Thread Id: 0 Data Row Index: 426
+Thread Id: 2 Data Row Index: 427
+Thread Id: 2 Data Row Index: 428
+Thread Id: 2 Data Row Index: 429
+Thread Id: 0 Data Row Index: 430
+Thread Id: 2 Data Row Index: 431
+Thread Id: 2 Data Row Index: 432
+Thread Id: 2 Data Row Index: 433
+Thread Id: 2 Data Row Index: 434
+Thread Id: 2 Data Row Index: 435
+Thread Id: 0 Data Row Index: 436
+Thread Id: 2 Data Row Index: 437
+Thread Id: 0 Data Row Index: 438
+Thread Id: 2 Data Row Index: 439
+Thread Id: 0 Data Row Index: 440
+Thread Id: 0 Data Row Index: 441
+Thread Id: 0 Data Row Index: 442
+Thread Id: 0 Data Row Index: 443
+Thread Id: 2 Data Row Index: 444
+Thread Id: 2 Data Row Index: 445
+Thread Id: 0 Data Row Index: 446
+Thread Id: 0 Data Row Index: 447
+Thread Id: 2 Data Row Index: 448
+Thread Id: 2 Data Row Index: 449
+Thread Id: 2 Data Row Index: 450
+Thread Id: 2 Data Row Index: 451
+Thread Id: 2 Data Row Index: 452
+Thread Id: 2 Data Row Index: 453
+Thread Id: 2 Data Row Index: 454
+Thread Id: 0 Data Row Index: 455
+Thread Id: 2 Data Row Index: 456
+Thread Id: 0 Data Row Index: 457
+Thread Id: 2 Data Row Index: 458
+Thread Id: 0 Data Row Index: 459
+Thread Id: 0 Data Row Index: 460
+Thread Id: 0 Data Row Index: 461
+Thread Id: 0 Data Row Index: 462
+Thread Id: 0 Data Row Index: 463
+Thread Id: 2 Data Row Index: 464
+Thread Id: 0 Data Row Index: 465
+Thread Id: 2 Data Row Index: 466
+Thread Id: 2 Data Row Index: 467
+Thread Id: 2 Data Row Index: 468
+Thread Id: 2 Data Row Index: 469
+Thread Id: 2 Data Row Index: 470
+Thread Id: 2 Data Row Index: 471
+Thread Id: 2 Data Row Index: 472
+Thread Id: 2 Data Row Index: 473
+Thread Id: 2 Data Row Index: 474
+Thread Id: 2 Data Row Index: 475
+Thread Id: 2 Data Row Index: 476
+Thread Id: 2 Data Row Index: 477
+Thread Id: 2 Data Row Index: 478
+Thread Id: 2 Data Row Index: 479
+Thread Id: 2 Data Row Index: 480
+Thread Id: 2 Data Row Index: 481
+Thread Id: 2 Data Row Index: 482
+Thread Id: 0 Data Row Index: 483
+Thread Id: 0 Data Row Index: 484
+Thread Id: 2 Data Row Index: 485
+Thread Id: 2 Data Row Index: 486
+Thread Id: 2 Data Row Index: 487
+Thread Id: 0 Data Row Index: 488
+Thread Id: 2 Data Row Index: 489
+Thread Id: 0 Data Row Index: 490
+Thread Id: 2 Data Row Index: 491
+Thread Id: 2 Data Row Index: 492
+Thread Id: 2 Data Row Index: 493
+Thread Id: 2 Data Row Index: 494
+Thread Id: 2 Data Row Index: 495
+Thread Id: 0 Data Row Index: 496
+Thread Id: 2 Data Row Index: 497
+Thread Id: 2 Data Row Index: 498
+Thread Id: 0 Data Row Index: 499
+Thread Id: 0 Data Row Index: 500
+Thread Id: 2 Data Row Index: 501
+Thread Id: 0 Data Row Index: 502
+Thread Id: 0 Data Row Index: 503
+Thread Id: 2 Data Row Index: 504
+Thread Id: 0 Data Row Index: 505
+Thread Id: 2 Data Row Index: 506
+Thread Id: 0 Data Row Index: 507
+Thread Id: 2 Data Row Index: 508
+Thread Id: 2 Data Row Index: 509
+Thread Id: 2 Data Row Index: 510
+Thread Id: 2 Data Row Index: 511
+Thread Id: 0 Data Row Index: 512
+Thread Id: 0 Data Row Index: 513
+Thread Id: 0 Data Row Index: 514
+Thread Id: 2 Data Row Index: 515
+Thread Id: 0 Data Row Index: 516
+Thread Id: 0 Data Row Index: 517
+Thread Id: 0 Data Row Index: 518
+Thread Id: 0 Data Row Index: 519
+Thread Id: 0 Data Row Index: 520
+Thread Id: 2 Data Row Index: 521
+Thread Id: 2 Data Row Index: 522
+Thread Id: 0 Data Row Index: 523
+Thread Id: 2 Data Row Index: 524
+Thread Id: 0 Data Row Index: 525
+Thread Id: 0 Data Row Index: 526
+Thread Id: 2 Data Row Index: 527
+Thread Id: 2 Data Row Index: 528
+Thread Id: 0 Data Row Index: 529
+Thread Id: 2 Data Row Index: 530
+Thread Id: 2 Data Row Index: 531
+Thread Id: 0 Data Row Index: 532
+Thread Id: 0 Data Row Index: 533
+Thread Id: 0 Data Row Index: 534
+Thread Id: 0 Data Row Index: 535
+Thread Id: 2 Data Row Index: 536
+Thread Id: 0 Data Row Index: 537
+Thread Id: 0 Data Row Index: 538
+Thread Id: 2 Data Row Index: 539
+Thread Id: 2 Data Row Index: 540
+Thread Id: 2 Data Row Index: 541
+Thread Id: 2 Data Row Index: 542
+Thread Id: 2 Data Row Index: 543
+Thread Id: 2 Data Row Index: 544
+Thread Id: 2 Data Row Index: 545
+Thread Id: 2 Data Row Index: 546
+Thread Id: 0 Data Row Index: 547
+Thread Id: 0 Data Row Index: 548
+Thread Id: 2 Data Row Index: 549
+Thread Id: 0 Data Row Index: 550
+Thread Id: 2 Data Row Index: 551
+Thread Id: 2 Data Row Index: 552
+Thread Id: 0 Data Row Index: 553
+Thread Id: 2 Data Row Index: 554
+Thread Id: 0 Data Row Index: 555
+Thread Id: 2 Data Row Index: 556
+Thread Id: 0 Data Row Index: 557
+Thread Id: 0 Data Row Index: 558
+Thread Id: 0 Data Row Index: 559
+Thread Id: 0 Data Row Index: 560
+Thread Id: 2 Data Row Index: 561
+Thread Id: 0 Data Row Index: 562
+Thread Id: 2 Data Row Index: 563
+Thread Id: 2 Data Row Index: 564
+Thread Id: 2 Data Row Index: 565
+Thread Id: 0 Data Row Index: 566
+Thread Id: 0 Data Row Index: 567
+Thread Id: 2 Data Row Index: 568
+Thread Id: 2 Data Row Index: 569
+Thread Id: 0 Data Row Index: 570
+Thread Id: 0 Data Row Index: 571
+Thread Id: 0 Data Row Index: 572
+Thread Id: 2 Data Row Index: 573
+Thread Id: 2 Data Row Index: 574
+Thread Id: 0 Data Row Index: 575
+Thread Id: 0 Data Row Index: 576
+Thread Id: 0 Data Row Index: 577
+Thread Id: 0 Data Row Index: 578
+Thread Id: 0 Data Row Index: 579
+Thread Id: 0 Data Row Index: 580
+Thread Id: 0 Data Row Index: 581
+Thread Id: 0 Data Row Index: 582
+Thread Id: 0 Data Row Index: 583
+Thread Id: 2 Data Row Index: 584
+Thread Id: 2 Data Row Index: 585
+Thread Id: 0 Data Row Index: 586
+Thread Id: 2 Data Row Index: 587
+Thread Id: 2 Data Row Index: 588
+Thread Id: 2 Data Row Index: 589
+Thread Id: 2 Data Row Index: 590
+Thread Id: 0 Data Row Index: 591
+Thread Id: 2 Data Row Index: 592
+Thread Id: 2 Data Row Index: 593
+Thread Id: 0 Data Row Index: 594
+Thread Id: 2 Data Row Index: 595
+Thread Id: 2 Data Row Index: 596
+Thread Id: 2 Data Row Index: 597
+Thread Id: 0 Data Row Index: 598
+Thread Id: 2 Data Row Index: 599
+Thread Id: 0 Data Row Index: 600
+Thread Id: 0 Data Row Index: 601
+Thread Id: 2 Data Row Index: 602
+Thread Id: 0 Data Row Index: 603
+Thread Id: 0 Data Row Index: 604
+Thread Id: 2 Data Row Index: 605
+Thread Id: 0 Data Row Index: 606
+Thread Id: 2 Data Row Index: 607
+Thread Id: 2 Data Row Index: 608
+Thread Id: 0 Data Row Index: 609
+Thread Id: 2 Data Row Index: 610
+Thread Id: 0 Data Row Index: 611
+Thread Id: 2 Data Row Index: 612
+Thread Id: 2 Data Row Index: 613
+Thread Id: 0 Data Row Index: 614
+Thread Id: 2 Data Row Index: 615
+Thread Id: 0 Data Row Index: 616
+Thread Id: 0 Data Row Index: 617
+Thread Id: 2 Data Row Index: 618
+Thread Id: 2 Data Row Index: 619
+Thread Id: 2 Data Row Index: 620
+Thread Id: 0 Data Row Index: 621
+Thread Id: 2 Data Row Index: 622
+Thread Id: 2 Data Row Index: 623
+Thread Id: 2 Data Row Index: 624
+Thread Id: 0 Data Row Index: 625
+Thread Id: 0 Data Row Index: 626
+Thread Id: 0 Data Row Index: 627
+Thread Id: 0 Data Row Index: 628
+Thread Id: 0 Data Row Index: 629
+Thread Id: 2 Data Row Index: 630
+Thread Id: 0 Data Row Index: 631
+Thread Id: 2 Data Row Index: 632
+Thread Id: 2 Data Row Index: 633
+Thread Id: 0 Data Row Index: 634
+Thread Id: 0 Data Row Index: 635
+Thread Id: 2 Data Row Index: 636
+Thread Id: 0 Data Row Index: 637
+Thread Id: 2 Data Row Index: 638
+Thread Id: 0 Data Row Index: 639
+Thread Id: 0 Data Row Index: 640
+Thread Id: 0 Data Row Index: 641
+Thread Id: 2 Data Row Index: 642
+Thread Id: 0 Data Row Index: 643
+Thread Id: 0 Data Row Index: 644
+Thread Id: 0 Data Row Index: 645
+Thread Id: 0 Data Row Index: 646
+Thread Id: 2 Data Row Index: 647
+Thread Id: 2 Data Row Index: 648
+Thread Id: 0 Data Row Index: 649
+Thread Id: 0 Data Row Index: 650
+Thread Id: 0 Data Row Index: 651
+Thread Id: 0 Data Row Index: 652
+Thread Id: 0 Data Row Index: 653
+Thread Id: 2 Data Row Index: 654
+Thread Id: 0 Data Row Index: 655
+Thread Id: 0 Data Row Index: 656
+Thread Id: 0 Data Row Index: 657
+Thread Id: 0 Data Row Index: 658
+Thread Id: 2 Data Row Index: 659
+Thread Id: 0 Data Row Index: 660
+Thread Id: 0 Data Row Index: 661
+Thread Id: 2 Data Row Index: 662
+Thread Id: 2 Data Row Index: 663
+Thread Id: 2 Data Row Index: 664
+Thread Id: 0 Data Row Index: 665
+Thread Id: 0 Data Row Index: 666
+Thread Id: 2 Data Row Index: 667
+Thread Id: 2 Data Row Index: 668
+Thread Id: 0 Data Row Index: 669
+Thread Id: 0 Data Row Index: 670
+Thread Id: 2 Data Row Index: 671
+Thread Id: 2 Data Row Index: 672
+Thread Id: 0 Data Row Index: 673
+Thread Id: 2 Data Row Index: 674
+Thread Id: 2 Data Row Index: 675
+Thread Id: 2 Data Row Index: 676
+Thread Id: 2 Data Row Index: 677
+Thread Id: 0 Data Row Index: 678
+Thread Id: 2 Data Row Index: 679
+Thread Id: 2 Data Row Index: 680
+Thread Id: 2 Data Row Index: 681
+Thread Id: 2 Data Row Index: 682
+Thread Id: 2 Data Row Index: 683
+Thread Id: 0 Data Row Index: 684
+Thread Id: 0 Data Row Index: 685
+Thread Id: 0 Data Row Index: 686
+Thread Id: 2 Data Row Index: 687
+Thread Id: 0 Data Row Index: 688
+Thread Id: 0 Data Row Index: 689
+Dataset printing process...
+Thread Id: 0 Data Id: 0[ Label: 1 7 2 8 160  ]
+Thread Id: 2 Data Id: 1[ Label: 1 1.75 1 4 280  ]
+Thread Id: 2 Data Id: 2[ Label: 1 11.5 1 5 0  ]
+Thread Id: 2 Data Id: 3[ Label: 159 8.17 2 6 60  ]
+Thread Id: 2 Data Id: 4[ Label: 1 0.585 2 8 100  ]
+Thread Id: 2 Data Id: 5[ Label: 101 6.5 2 3 60  ]
+Thread Id: 2 Data Id: 6[ Label: 561 4.46 2 11 43  ]
+Thread Id: 2 Data Id: 7[ Label: 538 1 1 2 176  ]
+Thread Id: 2 Data Id: 8[ Label: 51 7.08 2 4 100  ]
+Thread Id: 2 Data Id: 9[ Label: 858 1.75 2 14 253  ]
+Thread Id: 2 Data Id: 10[ Label: 1 5 2 11 470  ]
+Thread Id: 2 Data Id: 11[ Label: 211 1.25 1 8 140  ]
+Thread Id: 2 Data Id: 12[ Label: 1001 5 2 14 0  ]
+Thread Id: 2 Data Id: 13[ Label: 1 2.71 2 8 320  ]
+Thread Id: 2 Data Id: 14[ Label: 2691 6.04 2 4 0  ]
+Thread Id: 2 Data Id: 15[ Label: 1 4.5 2 9 330  ]
+Thread Id: 2 Data Id: 16[ Label: 592 9 2 6 88  ]
+Thread Id: 2 Data Id: 17[ Label: 5 1.25 1 4 140  ]
+Thread Id: 2 Data Id: 18[ Label: 3258 5.665 2 11 129  ]
+Thread Id: 2 Data Id: 19[ Label: 1005 0.585 2 6 260  ]
+Thread Id: 2 Data Id: 20[ Label: 1 0.585 1 6 160  ]
+Thread Id: 2 Data Id: 21[ Label: 1 1.335 2 2 168  ]
+Thread Id: 2 Data Id: 22[ Label: 1 1.75 2 4 160  ]
+Thread Id: 2 Data Id: 23[ Label: 351 9.585 2 6 80  ]
+Thread Id: 2 Data Id: 24[ Label: 1 1.5 2 13 0  ]
+Thread Id: 2 Data Id: 25[ Label: 71 0.125 1 4 200  ]
+Thread Id: 2 Data Id: 26[ Label: 18028 3.04 1 8 180  ]
+Thread Id: 2 Data Id: 27[ Label: 20 12 2 8 220  ]
+Thread Id: 2 Data Id: 28[ Label: 2185 2.5 2 8 60  ]
+Thread Id: 2 Data Id: 29[ Label: 151 0.75 2 8 312  ]
+Thread Id: 2 Data Id: 30[ Label: 33 10.5 1 14 154  ]
+Thread Id: 2 Data Id: 31[ Label: 101 1.375 1 8 200  ]
+Thread Id: 2 Data Id: 32[ Label: 285 11.5 2 9 290  ]
+Thread Id: 2 Data Id: 33[ Label: 113 1.25 2 7 352  ]
+Thread Id: 2 Data Id: 34[ Label: 352 19 1 1 0  ]
+Thread Id: 2 Data Id: 35[ Label: 1 12.5 2 6 20  ]
+Thread Id: 2 Data Id: 36[ Label: 1 13.915 2 9 70  ]
+Thread Id: 2 Data Id: 37[ Label: 1261 8 2 8 0  ]
+Thread Id: 2 Data Id: 38[ Label: 1705 3 2 14 519  ]
+Thread Id: 2 Data Id: 39[ Label: 1 0 2 13 0  ]
+Thread Id: 2 Data Id: 40[ Label: 68 1.5 1 6 120  ]
+Thread Id: 2 Data Id: 41[ Label: 5299 1.125 2 14 0  ]
+Thread Id: 2 Data Id: 42[ Label: 1 0.54 2 8 180  ]
+Thread Id: 2 Data Id: 43[ Label: 7 0.415 1 8 128  ]
+Thread Id: 2 Data Id: 44[ Label: 1 10.25 2 11 49  ]
+Thread Id: 2 Data Id: 45[ Label: 1 1.75 1 8 132  ]
+Thread Id: 2 Data Id: 46[ Label: 1 0.04 2 8 0  ]
+Thread Id: 2 Data Id: 47[ Label: 18 2 1 10 256  ]
+Thread Id: 2 Data Id: 48[ Label: 2201 15 2 8 0  ]
+Thread Id: 2 Data Id: 49[ Label: 1 3.5 2 4 232  ]
+Thread Id: 2 Data Id: 50[ Label: 101 4.125 1 3 140  ]
+Thread Id: 2 Data Id: 51[ Label: 2101 0.125 1 4 216  ]
+Thread Id: 2 Data Id: 52[ Label: 7 1.75 1 8 112  ]
+Thread Id: 2 Data Id: 53[ Label: 2 3.25 1 11 369  ]
+Thread Id: 2 Data Id: 54[ Label: 36 1.5 2 9 434  ]
+Thread Id: 2 Data Id: 55[ Label: 501 6.5 2 6 0  ]
+Thread Id: 2 Data Id: 56[ Label: 247 2.5 2 3 260  ]
+Thread Id: 2 Data Id: 57[ Label: 1443 4.915 1 9 52  ]
+Thread Id: 2 Data Id: 58[ Label: 1 12.25 2 7 200  ]
+Thread Id: 2 Data Id: 59[ Label: 1 5 2 3 141  ]
+Thread Id: 2 Data Id: 60[ Label: 5 0.71 2 9 240  ]
+Thread Id: 2 Data Id: 61[ Label: 301 2 2 3 120  ]
+Thread Id: 2 Data Id: 62[ Label: 1 3.5 2 3 1160  ]
+Thread Id: 2 Data Id: 63[ Label: 825 0.5 2 11 280  ]
+Thread Id: 2 Data Id: 64[ Label: 1 9.79 2 14 0  ]
+Thread Id: 2 Data Id: 65[ Label: 1 0.165 2 11 380  ]
+Thread Id: 2 Data Id: 66[ Label: 69 11.5 2 3 100  ]
+Thread Id: 2 Data Id: 67[ Label: 147 2.835 2 1 176  ]
+Thread Id: 2 Data Id: 68[ Label: 714 1.585 2 13 583  ]
+Thread Id: 2 Data Id: 69[ Label: 1 26.335 1 1 0  ]
+Thread Id: 2 Data Id: 70[ Label: 34 1.375 2 9 0  ]
+Thread Id: 2 Data Id: 71[ Label: 1 1.25 2 9 200  ]
+Thread Id: 2 Data Id: 72[ Label: 8 5.04 1 8 144  ]
+Thread Id: 2 Data Id: 73[ Label: 1201 21.5 2 10 0  ]
+Thread Id: 2 Data Id: 74[ Label: 51 4.25 2 11 454  ]
+Thread Id: 2 Data Id: 75[ Label: 1 0.335 2 4 340  ]
+Thread Id: 2 Data Id: 76[ Label: 1 3.5 2 8 216  ]
+Thread Id: 2 Data Id: 77[ Label: 1 0 2 4 0  ]
+Thread Id: 2 Data Id: 78[ Label: 2080 1.46 2 9 120  ]
+Thread Id: 2 Data Id: 79[ Label: 7060 3.5 2 13 0  ]
+Thread Id: 2 Data Id: 80[ Label: 201 3.75 2 1 0  ]
+Thread Id: 2 Data Id: 81[ Label: 43 10 2 2 80  ]
+Thread Id: 2 Data Id: 82[ Label: 1 5 2 3 550  ]
+Thread Id: 2 Data Id: 83[ Label: 1 1 2 8 280  ]
+Thread Id: 2 Data Id: 84[ Label: 1 0 2 8 184  ]
+Thread Id: 2 Data Id: 85[ Label: 2 13.665 2 11 280  ]
+Thread Id: 2 Data Id: 86[ Label: 1 13 2 3 0  ]
+Thread Id: 2 Data Id: 87[ Label: 7 5.25 2 9 290  ]
+Thread Id: 2 Data Id: 88[ Label: 1 0.585 1 1 100  ]
+Thread Id: 2 Data Id: 89[ Label: 1 1.29 2 4 140  ]
+Thread Id: 2 Data Id: 90[ Label: 101 4.085 2 6 108  ]
+Thread Id: 2 Data Id: 91[ Label: 287 14.5 2 2 0  ]
+Thread Id: 2 Data Id: 92[ Label: 368 5 2 8 0  ]
+Thread Id: 2 Data Id: 93[ Label: 1 10 1 11 340  ]
+Thread Id: 2 Data Id: 94[ Label: 9 1.5 2 9 150  ]
+Thread Id: 2 Data Id: 95[ Label: 391 1.665 2 6 0  ]
+Thread Id: 2 Data Id: 96[ Label: 1 0.04 1 7 0  ]
+Thread Id: 2 Data Id: 97[ Label: 11 9.5 2 6 0  ]
+Thread Id: 2 Data Id: 98[ Label: 1 0.835 2 11 0  ]
+Thread Id: 2 Data Id: 99[ Label: 1 4 2 8 480  ]
+Thread Id: 2 Data Id: 100[ Label: 1 0.21 2 4 280  ]
+Thread Id: 2 Data Id: 101[ Label: 501 13.75 2 9 487  ]
+Thread Id: 2 Data Id: 102[ Label: 501 0.585 1 13 260  ]
+Thread Id: 2 Data Id: 103[ Label: 2 0 1 1 45  ]
+Thread Id: 2 Data Id: 104[ Label: 5861 0.875 2 14 160  ]
+Thread Id: 2 Data Id: 105[ Label: 7545 2 2 14 140  ]
+Thread Id: 2 Data Id: 106[ Label: 1 9 2 6 0  ]
+Thread Id: 2 Data Id: 107[ Label: 1 13.585 2 4 0  ]
+Thread Id: 2 Data Id: 108[ Label: 1 2.5 2 8 280  ]
+Thread Id: 2 Data Id: 109[ Label: 1 10.125 1 4 160  ]
+Thread Id: 2 Data Id: 110[ Label: 229 6.5 2 8 0  ]
+Thread Id: 2 Data Id: 111[ Label: 1 4 1 3 75  ]
+Thread Id: 2 Data Id: 112[ Label: 1584 0.915 2 6 0  ]
+Thread Id: 2 Data Id: 113[ Label: 1 0.25 2 3 420  ]
+Thread Id: 2 Data Id: 114[ Label: 2001 0.08 1 7 280  ]
+Thread Id: 2 Data Id: 115[ Label: 51 10.335 2 13 80  ]
+Thread Id: 2 Data Id: 116[ Label: 4072 1 2 14 340  ]
+Thread Id: 2 Data Id: 117[ Label: 810 11 2 11 100  ]
+Thread Id: 2 Data Id: 118[ Label: 1656 8.5 2 8 181  ]
+Thread Id: 2 Data Id: 119[ Label: 3066 5 2 8 0  ]
+Thread Id: 2 Data Id: 120[ Label: 1 0.835 1 8 240  ]
+Thread Id: 2 Data Id: 121[ Label: 1 1.5 2 1 76  ]
+Thread Id: 2 Data Id: 122[ Label: 3001 19.5 2 8 0  ]
+Thread Id: 2 Data Id: 123[ Label: 1 3.75 2 13 181  ]
+Thread Id: 2 Data Id: 124[ Label: 284 0.79 2 9 420  ]
+Thread Id: 2 Data Id: 125[ Label: 1603 10 2 11 0  ]
+Thread Id: 2 Data Id: 126[ Label: 141 0.375 2 8 220  ]
+Thread Id: 2 Data Id: 127[ Label: 961 4 2 5 100  ]
+Thread Id: 2 Data Id: 128[ Label: 2 3 1 2 160  ]
+Thread Id: 2 Data Id: 129[ Label: 568 12.5 2 6 120  ]
+Thread Id: 2 Data Id: 130[ Label: 1 0.5 1 10 260  ]
+Thread Id: 2 Data Id: 131[ Label: 1 13.5 1 1 184  ]
+Thread Id: 2 Data Id: 132[ Label: 1 2.71 1 8 80  ]
+Thread Id: 2 Data Id: 133[ Label: 2 0.835 2 1 130  ]
+Thread Id: 2 Data Id: 134[ Label: 1 4.415 2 8 160  ]
+Thread Id: 2 Data Id: 135[ Label: 770 0.585 2 1 350  ]
+Thread Id: 2 Data Id: 136[ Label: 4608 9.5 2 7 240  ]
+Thread Id: 2 Data Id: 137[ Label: 1 0.5 2 8 312  ]
+Thread Id: 2 Data Id: 138[ Label: 4160 3 2 8 396  ]
+Thread Id: 2 Data Id: 139[ Label: 1 10 1 4 140  ]
+Thread Id: 2 Data Id: 140[ Label: 1 1.25 1 1 280  ]
+Thread Id: 2 Data Id: 141[ Label: 2 3.54 1 1 180  ]
+Thread Id: 2 Data Id: 142[ Label: 1001 20 2 14 0  ]
+Thread Id: 2 Data Id: 143[ Label: 99 1.25 2 11 108  ]
+Thread Id: 2 Data Id: 144[ Label: 3377 15 2 10 0  ]
+Thread Id: 2 Data Id: 145[ Label: 110 22.29 2 10 0  ]
+Thread Id: 2 Data Id: 146[ Label: 1 2.875 2 11 120  ]
+Thread Id: 2 Data Id: 147[ Label: 1 4 2 2 184  ]
+Thread Id: 2 Data Id: 148[ Label: 51101 8 2 10 375  ]
+Thread Id: 2 Data Id: 149[ Label: 1 0 2 8 184  ]
+Thread Id: 2 Data Id: 150[ Label: 1 1.5 2 8 140  ]
+Thread Id: 2 Data Id: 151[ Label: 1 7 2 10 600  ]
+Thread Id: 2 Data Id: 152[ Label: 2 0.415 1 8 200  ]
+Thread Id: 2 Data Id: 153[ Label: 11203 6.5 2 4 0  ]
+Thread Id: 2 Data Id: 154[ Label: 2 0 1 7 500  ]
+Thread Id: 2 Data Id: 155[ Label: 41 0.165 2 11 200  ]
+Thread Id: 2 Data Id: 156[ Label: 6 0.835 2 10 120  ]
+Thread Id: 2 Data Id: 157[ Label: 1 1.585 1 9 80  ]
+Thread Id: 2 Data Id: 158[ Label: 1 4.165 2 14 520  ]
+Thread Id: 2 Data Id: 159[ Label: 17 2.5 2 8 460  ]
+Thread Id: 2 Data Id: 160[ Label: 1 1.625 2 2 0  ]
+Thread Id: 2 Data Id: 161[ Label: 163 0.375 1 8 300  ]
+Thread Id: 2 Data Id: 162[ Label: 1 4.04 1 3 195  ]
+Thread Id: 2 Data Id: 163[ Label: 201 3 2 3 0  ]
+Thread Id: 2 Data Id: 164[ Label: 1 0.165 2 2 280  ]
+Thread Id: 2 Data Id: 165[ Label: 4209 2.5 2 1 100  ]
+Thread Id: 2 Data Id: 166[ Label: 1 8.46 1 14 164  ]
+Thread Id: 2 Data Id: 167[ Label: 751 0.205 2 6 280  ]
+Thread Id: 2 Data Id: 168[ Label: 376 10.415 1 6 120  ]
+Thread Id: 2 Data Id: 169[ Label: 1 1.5 2 7 368  ]
+Thread Id: 2 Data Id: 170[ Label: 501 9.25 1 8 80  ]
+Thread Id: 2 Data Id: 171[ Label: 10 0.75 2 3 400  ]
+Thread Id: 2 Data Id: 172[ Label: 1 12.75 1 8 112  ]
+Thread Id: 2 Data Id: 173[ Label: 1 9 2 11 120  ]
+Thread Id: 2 Data Id: 174[ Label: 1 3.165 2 14 680  ]
+Thread Id: 2 Data Id: 175[ Label: 5 4.25 1 1 0  ]
+Thread Id: 2 Data Id: 176[ Label: 28 0.165 2 1 62  ]
+Thread Id: 2 Data Id: 177[ Label: 1 4.04 2 13 320  ]
+Thread Id: 2 Data Id: 178[ Label: 1 5.04 2 11 92  ]
+Thread Id: 2 Data Id: 179[ Label: 196 1.25 1 9 0  ]
+Thread Id: 2 Data Id: 180[ Label: 1 0.75 2 4 212  ]
+Thread Id: 2 Data Id: 181[ Label: 259 12.5 2 13 140  ]
+Thread Id: 2 Data Id: 182[ Label: 1 6.625 1 2 100  ]
+Thread Id: 2 Data Id: 183[ Label: 301 11.625 1 9 160  ]
+Thread Id: 2 Data Id: 184[ Label: 1 2.5 2 13 340  ]
+Thread Id: 2 Data Id: 185[ Label: 1 4 2 8 280  ]
+Thread Id: 2 Data Id: 186[ Label: 1 1.54 2 9 100  ]
+Thread Id: 2 Data Id: 187[ Label: 1 0.665 2 9 300  ]
+Thread Id: 2 Data Id: 188[ Label: 54 1.835 2 5 200  ]
+Thread Id: 2 Data Id: 189[ Label: 41 3 2 4 160  ]
+Thread Id: 2 Data Id: 190[ Label: 1 14.79 2 6 168  ]
+Thread Id: 2 Data Id: 191[ Label: 1 3.54 2 3 171  ]
+Thread Id: 2 Data Id: 192[ Label: 1 0 2 8 184  ]
+Thread Id: 2 Data Id: 193[ Label: 1 0.585 2 8 180  ]
+Thread Id: 2 Data Id: 194[ Label: 1209 11.25 2 8 200  ]
+Thread Id: 2 Data Id: 195[ Label: 26727 7.5 2 11 184  ]
+Thread Id: 2 Data Id: 196[ Label: 9 0.25 2 11 160  ]
+Thread Id: 2 Data Id: 197[ Label: 127 0.335 2 1 160  ]
+Thread Id: 2 Data Id: 198[ Label: 1 2.5 2 6 720  ]
+Thread Id: 2 Data Id: 199[ Label: 1466 10 2 8 50  ]
+Thread Id: 2 Data Id: 200[ Label: 1 1.75 1 5 160  ]
+Thread Id: 2 Data Id: 201[ Label: 31286 1.04 2 12 164  ]
+Thread Id: 2 Data Id: 202[ Label: 2 2.085 2 8 360  ]
+Thread Id: 2 Data Id: 203[ Label: 501 3 2 11 0  ]
+Thread Id: 2 Data Id: 204[ Label: 1 0 2 9 202  ]
+Thread Id: 2 Data Id: 205[ Label: 185 5.085 1 5 140  ]
+Thread Id: 2 Data Id: 206[ Label: 19 8.125 1 4 184  ]
+Thread Id: 2 Data Id: 207[ Label: 109 1.25 2 8 400  ]
+Thread Id: 2 Data Id: 208[ Label: 1 0.5 1 7 130  ]
+Thread Id: 2 Data Id: 209[ Label: 501 0.46 2 4 380  ]
+Thread Id: 2 Data Id: 210[ Label: 315 0.5 1 4 180  ]
+Thread Id: 2 Data Id: 211[ Label: 1 5.5 1 8 60  ]
+Thread Id: 2 Data Id: 212[ Label: 6 12 2 4 120  ]
+Thread Id: 2 Data Id: 213[ Label: 61 2.54 1 1 180  ]
+Thread Id: 2 Data Id: 214[ Label: 1 4.625 2 11 0  ]
+Thread Id: 2 Data Id: 215[ Label: 1 2.165 2 8 120  ]
+Thread Id: 2 Data Id: 216[ Label: 688 5.5 2 3 210  ]
+Thread Id: 2 Data Id: 217[ Label: 365 0.29 2 4 280  ]
+Thread Id: 2 Data Id: 218[ Label: 2001 0.875 2 11 520  ]
+Thread Id: 2 Data Id: 219[ Label: 3066 6.5 2 8 0  ]
+Thread Id: 2 Data Id: 220[ Label: 1 7 2 8 0  ]
+Thread Id: 2 Data Id: 221[ Label: 5125 0.58 2 8 96  ]
+Thread Id: 2 Data Id: 222[ Label: 69 4.75 2 7 460  ]
+Thread Id: 2 Data Id: 223[ Label: 1 2.25 2 3 560  ]
+Thread Id: 2 Data Id: 224[ Label: 1 1.165 2 4 280  ]
+Thread Id: 2 Data Id: 225[ Label: 2 3 1 3 0  ]
+Thread Id: 2 Data Id: 226[ Label: 1 9.96 2 10 0  ]
+Thread Id: 2 Data Id: 227[ Label: 2001 8.5 2 13 88  ]
+Thread Id: 2 Data Id: 228[ Label: 2385 2.29 2 11 140  ]
+Thread Id: 2 Data Id: 229[ Label: 7 3 2 11 100  ]
+Thread Id: 2 Data Id: 230[ Label: 4 1.5 2 9 100  ]
+Thread Id: 2 Data Id: 231[ Label: 1 2.25 1 14 176  ]
+Thread Id: 2 Data Id: 232[ Label: 16 28 1 8 0  ]
+Thread Id: 2 Data Id: 233[ Label: 101 0.165 2 1 232  ]
+Thread Id: 2 Data Id: 234[ Label: 322 11.25 1 14 0  ]
+Thread Id: 2 Data Id: 235[ Label: 457 2.5 1 3 200  ]
+Thread Id: 2 Data Id: 236[ Label: 1 6 2 1 0  ]
+Thread Id: 2 Data Id: 237[ Label: 1 0.75 2 4 231  ]
+Thread Id: 2 Data Id: 238[ Label: 1 12 2 7 110  ]
+Thread Id: 2 Data Id: 239[ Label: 13213 15 1 10 0  ]
+Thread Id: 2 Data Id: 240[ Label: 1271 2.5 2 4 150  ]
+Thread Id: 2 Data Id: 241[ Label: 5001 7.585 2 3 0  ]
+Thread Id: 2 Data Id: 242[ Label: 341 5.5 2 8 0  ]
+Thread Id: 2 Data Id: 243[ Label: 1 13 2 2 228  ]
+Thread Id: 2 Data Id: 244[ Label: 36 0.5 2 3 240  ]
+Thread Id: 2 Data Id: 245[ Label: 2 0.165 2 6 320  ]
+Thread Id: 2 Data Id: 246[ Label: 1001 14.5 2 1 0  ]
+Thread Id: 2 Data Id: 247[ Label: 1 2 2 4 181  ]
+Thread Id: 2 Data Id: 248[ Label: 1 1.54 2 3 216  ]
+Thread Id: 2 Data Id: 249[ Label: 1 9 2 6 0  ]
+Thread Id: 2 Data Id: 250[ Label: 476 13.335 1 6 120  ]
+Thread Id: 2 Data Id: 251[ Label: 135 15 2 12 0  ]
+Thread Id: 2 Data Id: 252[ Label: 1 1.25 2 9 120  ]
+Thread Id: 2 Data Id: 253[ Label: 838 10 2 11 29  ]
+Thread Id: 2 Data Id: 254[ Label: 151 1.835 2 8 100  ]
+Thread Id: 2 Data Id: 255[ Label: 1 1.125 1 2 431  ]
+Thread Id: 2 Data Id: 256[ Label: 1 4.25 2 7 225  ]
+Thread Id: 2 Data Id: 257[ Label: 1 0.75 2 7 320  ]
+Thread Id: 2 Data Id: 258[ Label: 1 3.375 2 8 0  ]
+Thread Id: 2 Data Id: 259[ Label: 22 2.75 2 6 80  ]
+Thread Id: 2 Data Id: 260[ Label: 1 10.5 2 11 100  ]
+Thread Id: 2 Data Id: 261[ Label: 1 11.75 2 8 180  ]
+Thread Id: 2 Data Id: 262[ Label: 1 2.54 1 6 370  ]
+Thread Id: 2 Data Id: 263[ Label: 1188 2.125 1 9 50  ]
+Thread Id: 2 Data Id: 264[ Label: 155 3.75 2 8 40  ]
+Thread Id: 2 Data Id: 265[ Label: 174 12.125 2 8 180  ]
+Thread Id: 2 Data Id: 266[ Label: 50001 1.54 2 13 520  ]
+Thread Id: 2 Data Id: 267[ Label: 1 2.5 2 3 210  ]
+Thread Id: 2 Data Id: 268[ Label: 1 3.625 2 6 100  ]
+Thread Id: 2 Data Id: 269[ Label: 485 5.415 2 3 80  ]
+Thread Id: 2 Data Id: 270[ Label: 1 1 2 8 300  ]
+Thread Id: 2 Data Id: 271[ Label: 1 0.125 2 8 132  ]
+Thread Id: 2 Data Id: 272[ Label: 769 0.125 2 11 240  ]
+Thread Id: 2 Data Id: 273[ Label: 279 11 2 9 80  ]
+Thread Id: 2 Data Id: 274[ Label: 1 5.085 1 3 480  ]
+Thread Id: 2 Data Id: 275[ Label: 2198 0.335 2 3 252  ]
+Thread Id: 2 Data Id: 276[ Label: 1 0.835 2 7 200  ]
+Thread Id: 2 Data Id: 277[ Label: 2073 2.5 2 13 160  ]
+Thread Id: 2 Data Id: 278[ Label: 15 25.085 2 9 120  ]
+Thread Id: 2 Data Id: 279[ Label: 201 2.75 2 3 232  ]
+Thread Id: 2 Data Id: 280[ Label: 1 1.21 1 10 100  ]
+Thread Id: 2 Data Id: 281[ Label: 1 0.5 2 7 400  ]
+Thread Id: 2 Data Id: 282[ Label: 3 1.75 2 4 300  ]
+Thread Id: 2 Data Id: 283[ Label: 1 0.75 1 6 320  ]
+Thread Id: 2 Data Id: 284[ Label: 21 1.71 2 14 395  ]
+Thread Id: 0 Data Id: 285[ Label: 1 11 2 10 22  ]
+Thread Id: 0 Data Id: 286[ Label: 1 0 2 8 0  ]
+Thread Id: 2 Data Id: 287[ Label: 20 1.125 2 1 96  ]
+Thread Id: 2 Data Id: 288[ Label: 1 4.71 2 1 160  ]
+Thread Id: 2 Data Id: 289[ Label: 1 7.5 2 10 420  ]
+Thread Id: 2 Data Id: 290[ Label: 5 3.125 2 1 200  ]
+Thread Id: 2 Data Id: 291[ Label: 601 2.75 2 8 184  ]
+Thread Id: 2 Data Id: 292[ Label: 60 0.54 1 14 840  ]
+Thread Id: 2 Data Id: 293[ Label: 1 3 2 13 0  ]
+Thread Id: 2 Data Id: 294[ Label: 5 3 1 1 180  ]
+Thread Id: 2 Data Id: 295[ Label: 106 1.5 2 1 200  ]
+Thread Id: 2 Data Id: 296[ Label: 501 0.705 2 8 225  ]
+Thread Id: 2 Data Id: 297[ Label: 1 1.71 2 14 480  ]
+Thread Id: 2 Data Id: 298[ Label: 588 2.46 2 8 160  ]
+Thread Id: 2 Data Id: 299[ Label: 1 5 2 13 0  ]
+Thread Id: 2 Data Id: 300[ Label: 1 11.045 2 8 136  ]
+Thread Id: 2 Data Id: 301[ Label: 1 2.335 2 2 292  ]
+Thread Id: 2 Data Id: 302[ Label: 1 5.71 2 2 120  ]
+Thread Id: 2 Data Id: 303[ Label: 161 7.625 2 11 0  ]
+Thread Id: 2 Data Id: 304[ Label: 1 5.875 2 13 399  ]
+Thread Id: 2 Data Id: 305[ Label: 6 0.665 2 9 220  ]
+Thread Id: 2 Data Id: 306[ Label: 1 10.5 2 8 0  ]
+Thread Id: 2 Data Id: 307[ Label: 395 0.75 2 8 200  ]
+Thread Id: 2 Data Id: 308[ Label: 22 3.25 2 8 416  ]
+Thread Id: 2 Data Id: 309[ Label: 1 10.085 1 10 260  ]
+Thread Id: 2 Data Id: 310[ Label: 28 1.5 2 5 100  ]
+Thread Id: 2 Data Id: 311[ Label: 1 5.29 2 11 160  ]
+Thread Id: 2 Data Id: 312[ Label: 100 0.21 2 11 80  ]
+Thread Id: 2 Data Id: 313[ Label: 1 0.25 2 2 0  ]
+Thread Id: 2 Data Id: 314[ Label: 1 0.54 2 4 100  ]
+Thread Id: 2 Data Id: 315[ Label: 1 5 2 13 980  ]
+Thread Id: 2 Data Id: 316[ Label: 1 12.54 2 6 156  ]
+Thread Id: 2 Data Id: 317[ Label: 19 0.375 2 8 120  ]
+Thread Id: 2 Data Id: 318[ Label: 445 12.75 2 8 73  ]
+Thread Id: 2 Data Id: 319[ Label: 301 4.79 1 9 80  ]
+Thread Id: 2 Data Id: 320[ Label: 1 11 2 13 100  ]
+Thread Id: 2 Data Id: 321[ Label: 301 9.415 2 1 30  ]
+Thread Id: 2 Data Id: 322[ Label: 1 5.5 2 4 80  ]
+Thread Id: 2 Data Id: 323[ Label: 1 4.415 1 4 320  ]
+Thread Id: 2 Data Id: 324[ Label: 197 10.125 2 14 520  ]
+Thread Id: 2 Data Id: 325[ Label: 1 1.54 2 4 356  ]
+Thread Id: 2 Data Id: 326[ Label: 1 6.5 2 3 73  ]
+Thread Id: 2 Data Id: 327[ Label: 11 2.25 2 3 160  ]
+Thread Id: 2 Data Id: 328[ Label: 351 1.5 2 2 0  ]
+Thread Id: 2 Data Id: 329[ Label: 100 5 2 6 0  ]
+Thread Id: 2 Data Id: 330[ Label: 1 5.625 2 9 120  ]
+Thread Id: 2 Data Id: 331[ Label: 1 4 2 8 160  ]
+Thread Id: 2 Data Id: 332[ Label: 3 0.42 1 9 309  ]
+Thread Id: 2 Data Id: 333[ Label: 2 1.75 1 8 150  ]
+Thread Id: 2 Data Id: 334[ Label: 6 0.835 2 3 220  ]
+Thread Id: 2 Data Id: 335[ Label: 457 1 2 8 0  ]
+Thread Id: 2 Data Id: 336[ Label: 2 5 2 1 17  ]
+Thread Id: 2 Data Id: 337[ Label: 1 4.415 1 8 240  ]
+Thread Id: 2 Data Id: 338[ Label: 1 0.625 2 6 200  ]
+Thread Id: 2 Data Id: 339[ Label: 1 3 2 2 120  ]
+Thread Id: 2 Data Id: 340[ Label: 21 1.5 1 13 100  ]
+Thread Id: 2 Data Id: 341[ Label: 561 10.75 2 11 0  ]
+Thread Id: 2 Data Id: 342[ Label: 301 6.21 2 11 200  ]
+Thread Id: 2 Data Id: 343[ Label: 1 0.165 2 8 0  ]
+Thread Id: 2 Data Id: 344[ Label: 401 0.79 1 11 80  ]
+Thread Id: 2 Data Id: 345[ Label: 501 5.29 2 10 99  ]
+Thread Id: 2 Data Id: 346[ Label: 2301 7.54 1 11 0  ]
+Thread Id: 2 Data Id: 347[ Label: 4001 5.125 2 10 0  ]
+Thread Id: 2 Data Id: 348[ Label: 1 2.085 2 8 300  ]
+Thread Id: 2 Data Id: 349[ Label: 1 2.875 2 14 360  ]
+Thread Id: 2 Data Id: 350[ Label: 1 12.5 2 6 720  ]
+Thread Id: 2 Data Id: 351[ Label: 2280 4 2 14 290  ]
+Thread Id: 2 Data Id: 352[ Label: 1 6.5 2 6 443  ]
+Thread Id: 2 Data Id: 353[ Label: 1 2.335 2 4 180  ]
+Thread Id: 2 Data Id: 354[ Label: 42 3.085 2 8 160  ]
+Thread Id: 2 Data Id: 355[ Label: 1 0.5 2 8 320  ]
+Thread Id: 2 Data Id: 356[ Label: 7 3.125 2 9 0  ]
+Thread Id: 2 Data Id: 357[ Label: 828 1.665 2 13 399  ]
+Thread Id: 2 Data Id: 358[ Label: 23 3 2 8 0  ]
+Thread Id: 2 Data Id: 359[ Label: 1 5.5 2 10 0  ]
+Thread Id: 2 Data Id: 360[ Label: 601 9.5 2 9 40  ]
+Thread Id: 2 Data Id: 361[ Label: 109 0.29 2 7 272  ]
+Thread Id: 2 Data Id: 362[ Label: 3 0.665 1 8 2000  ]
+Thread Id: 2 Data Id: 363[ Label: 1 1.585 2 2 0  ]
+Thread Id: 2 Data Id: 364[ Label: 118 0.835 2 6 240  ]
+Thread Id: 2 Data Id: 365[ Label: 1 1.5 1 9 160  ]
+Thread Id: 2 Data Id: 366[ Label: 1 15 2 8 0  ]
+Thread Id: 2 Data Id: 367[ Label: 19 0.29 2 1 200  ]
+Thread Id: 2 Data Id: 368[ Label: 1 2.75 2 7 204  ]
+Thread Id: 2 Data Id: 369[ Label: 1 3 2 6 100  ]
+Thread Id: 2 Data Id: 370[ Label: 3553 18.125 2 9 320  ]
+Thread Id: 2 Data Id: 371[ Label: 1 0.585 2 1 145  ]
+Thread Id: 2 Data Id: 372[ Label: 12 0.83 2 11 200  ]
+Thread Id: 2 Data Id: 373[ Label: 1 4.5 2 14 711  ]
+Thread Id: 2 Data Id: 374[ Label: 6701 21 2 3 0  ]
+Thread Id: 2 Data Id: 375[ Label: 1 0.875 2 7 396  ]
+Thread Id: 2 Data Id: 376[ Label: 2011 0.625 2 4 380  ]
+Thread Id: 2 Data Id: 377[ Label: 21 3 1 5 160  ]
+Thread Id: 1 Data Id: 378[ Label: 2955 6.5 2 9 80  ]
+Thread Id: 1 Data Id: 379[ Label: 1098 6 2 7 108  ]
+Thread Id: 1 Data Id: 380[ Label: 3 3.29 2 3 140  ]
+Thread Id: 1 Data Id: 381[ Label: 3 7 1 8 160  ]
+Thread Id: 1 Data Id: 382[ Label: 1 0 1 6 60  ]
+Thread Id: 1 Data Id: 383[ Label: 1 6.5 2 11 145  ]
+Thread Id: 1 Data Id: 384[ Label: 2284 15 2 8 0  ]
+Thread Id: 1 Data Id: 385[ Label: 2 2 2 5 276  ]
+Thread Id: 1 Data Id: 386[ Label: 1345 3.335 2 9 383  ]
+Thread Id: 1 Data Id: 387[ Label: 1 6 2 8 0  ]
+Thread Id: 1 Data Id: 388[ Label: 1 0.375 2 11 80  ]
+Thread Id: 1 Data Id: 389[ Label: 1 17.75 2 1 0  ]
+Thread Id: 1 Data Id: 390[ Label: 4001 11.5 1 7 0  ]
+Thread Id: 1 Data Id: 391[ Label: 301 1.25 2 1 92  ]
+Thread Id: 1 Data Id: 392[ Label: 1 8.585 2 13 96  ]
+Thread Id: 1 Data Id: 393[ Label: 1 0 2 8 184  ]
+Thread Id: 1 Data Id: 394[ Label: 1 0.04 1 2 460  ]
+Thread Id: 1 Data Id: 395[ Label: 991 8.5 2 11 80  ]
+Thread Id: 1 Data Id: 396[ Label: 810 1.25 2 11 120  ]
+Thread Id: 1 Data Id: 397[ Label: 5553 12.625 2 8 0  ]
+Thread Id: 1 Data Id: 398[ Label: 14 1.085 1 14 280  ]
+Thread Id: 1 Data Id: 399[ Label: 1 6 2 2 272  ]
+Thread Id: 1 Data Id: 400[ Label: 1066 1.5 1 9 260  ]
+Thread Id: 1 Data Id: 401[ Label: 8 10.915 2 8 200  ]
+Thread Id: 1 Data Id: 402[ Label: 2 2.415 2 9 220  ]
+Thread Id: 1 Data Id: 403[ Label: 2 0 2 11 160  ]
+Thread Id: 1 Data Id: 404[ Label: 1 3.75 2 8 371  ]
+Thread Id: 1 Data Id: 405[ Label: 611 4.25 2 3 274  ]
+Thread Id: 1 Data Id: 406[ Label: 611 4.25 2 3 274  ]
+Thread Id: 1 Data Id: 407[ Label: 1 3 1 6 180  ]
+Thread Id: 1 Data Id: 408[ Label: 1 9.625 2 10 0  ]
+Thread Id: 1 Data Id: 409[ Label: 1 1 2 6 200  ]
+Thread Id: 1 Data Id: 410[ Label: 1 2.165 1 4 120  ]
+Thread Id: 1 Data Id: 411[ Label: 1 5 1 1 0  ]
+Thread Id: 1 Data Id: 412[ Label: 248 16 2 5 0  ]
+Thread Id: 1 Data Id: 413[ Label: 8001 0.165 1 8 432  ]
+Thread Id: 1 Data Id: 414[ Label: 1 11.835 2 8 340  ]
+Thread Id: 1 Data Id: 415[ Label: 1 5.5 2 4 100  ]
+Thread Id: 1 Data Id: 416[ Label: 1 0.67 2 6 400  ]
+Thread Id: 1 Data Id: 417[ Label: 1 11.125 2 14 100  ]
+Thread Id: 1 Data Id: 418[ Label: 5201 11.25 2 1 184  ]
+Thread Id: 1 Data Id: 419[ Label: 11178 0.54 2 13 440  ]
+Thread Id: 1 Data Id: 420[ Label: 328 1.5 2 2 200  ]
+Thread Id: 1 Data Id: 421[ Label: 114 0.125 1 8 232  ]
+Thread Id: 1 Data Id: 422[ Label: 1 1.25 1 4 224  ]
+Thread Id: 1 Data Id: 423[ Label: 679 0.5 2 11 0  ]
+Thread Id: 1 Data Id: 424[ Label: 205 0.25 1 8 280  ]
+Thread Id: 1 Data Id: 425[ Label: 1 15.5 2 8 120  ]
+Thread Id: 1 Data Id: 426[ Label: 801 3 2 7 260  ]
+Thread Id: 1 Data Id: 427[ Label: 401 1.75 1 8 164  ]
+Thread Id: 1 Data Id: 428[ Label: 7 4.5 2 9 360  ]
+Thread Id: 1 Data Id: 429[ Label: 1 3.79 2 9 200  ]
+Thread Id: 1 Data Id: 430[ Label: 893 0.75 2 11 333  ]
+Thread Id: 1 Data Id: 431[ Label: 1 4 1 13 120  ]
+Thread Id: 1 Data Id: 432[ Label: 4 10.665 2 11 129  ]
+Thread Id: 1 Data Id: 433[ Label: 4 1.54 2 9 100  ]
+Thread Id: 1 Data Id: 434[ Label: 131 15.5 2 10 152  ]
+Thread Id: 1 Data Id: 435[ Label: 691 0.75 2 8 352  ]
+Thread Id: 1 Data Id: 436[ Label: 1 12.5 2 9 260  ]
+Thread Id: 1 Data Id: 437[ Label: 1001 5.5 2 11 408  ]
+Thread Id: 1 Data Id: 438[ Label: 541 0.5 2 8 32  ]
+Thread Id: 1 Data Id: 439[ Label: 56 0.46 2 4 280  ]
+Thread Id: 1 Data Id: 440[ Label: 601 0.96 2 14 510  ]
+Thread Id: 1 Data Id: 441[ Label: 1 2 2 3 221  ]
+Thread Id: 1 Data Id: 442[ Label: 3 12.835 2 13 0  ]
+Thread Id: 1 Data Id: 443[ Label: 201 1.835 2 8 260  ]
+Thread Id: 1 Data Id: 444[ Label: 1 0.25 2 11 200  ]
+Thread Id: 1 Data Id: 445[ Label: 1 0.375 2 11 80  ]
+Thread Id: 1 Data Id: 446[ Label: 3001 0.04 2 14 0  ]
+Thread Id: 1 Data Id: 447[ Label: 13 7 2 10 0  ]
+Thread Id: 1 Data Id: 448[ Label: 1 3.29 2 7 400  ]
+Thread Id: 1 Data Id: 449[ Label: 2 0.21 2 6 200  ]
+Thread Id: 1 Data Id: 450[ Label: 2804 0.58 2 9 340  ]
+Thread Id: 1 Data Id: 451[ Label: 1 4.5 2 6 240  ]
+Thread Id: 1 Data Id: 452[ Label: 1 0 2 8 184  ]
+Thread Id: 0 Data Id: 453[ Label: 1 0.205 2 3 400  ]
+Thread Id: 3 Data Id: 454[ Label: 1 11 1 11 268  ]
+Thread Id: 3 Data Id: 455[ Label: 1301 2 2 10 320  ]
+Thread Id: 3 Data Id: 456[ Label: 1 0.5 2 3 320  ]
+Thread Id: 3 Data Id: 457[ Label: 552 11.75 2 14 300  ]
+Thread Id: 3 Data Id: 458[ Label: 4501 1.335 2 3 440  ]
+Thread Id: 3 Data Id: 459[ Label: 743 11.5 2 3 56  ]
+Thread Id: 3 Data Id: 460[ Label: 4 0.875 2 4 174  ]
+Thread Id: 3 Data Id: 461[ Label: 1 9 2 6 0  ]
+Thread Id: 3 Data Id: 462[ Label: 8 1.085 2 11 108  ]
+Thread Id: 3 Data Id: 463[ Label: 731 16.165 2 2 250  ]
+Thread Id: 3 Data Id: 464[ Label: 11 2 2 1 0  ]
+Thread Id: 3 Data Id: 465[ Label: 1 1.54 2 11 260  ]
+Thread Id: 3 Data Id: 466[ Label: 1401 14 2 1 0  ]
+Thread Id: 3 Data Id: 467[ Label: 29 1.04 1 3 132  ]
+Thread Id: 3 Data Id: 468[ Label: 1 6.5 2 11 350  ]
+Thread Id: 3 Data Id: 469[ Label: 17 11.5 1 4 20  ]
+Thread Id: 3 Data Id: 470[ Label: 29 9.25 2 8 40  ]
+Thread Id: 3 Data Id: 471[ Label: 791 7.625 2 9 0  ]
+Thread Id: 3 Data Id: 472[ Label: 583 1.5 2 11 0  ]
+Thread Id: 3 Data Id: 473[ Label: 2 14 1 1 160  ]
+Thread Id: 3 Data Id: 474[ Label: 1 0.335 1 13 180  ]
+Thread Id: 3 Data Id: 475[ Label: 348 0.46 1 9 208  ]
+Thread Id: 3 Data Id: 476[ Label: 1 0.335 1 4 200  ]
+Thread Id: 3 Data Id: 477[ Label: 352 8.5 2 8 0  ]
+Thread Id: 3 Data Id: 478[ Label: 10562 16.5 2 11 21  ]
+Thread Id: 3 Data Id: 479[ Label: 1 5 1 6 0  ]
+Thread Id: 3 Data Id: 480[ Label: 459 12.33 2 13 400  ]
+Thread Id: 3 Data Id: 481[ Label: 1 9.75 2 8 140  ]
+Thread Id: 3 Data Id: 482[ Label: 1 0 2 8 184  ]
+Thread Id: 3 Data Id: 483[ Label: 2 13.5 1 1 200  ]
+Thread Id: 3 Data Id: 484[ Label: 1 4.625 2 11 0  ]
+Thread Id: 3 Data Id: 485[ Label: 5778 1.75 1 8 160  ]
+Thread Id: 3 Data Id: 486[ Label: 1333 7.04 2 7 360  ]
+Thread Id: 3 Data Id: 487[ Label: 8852 11.5 2 1 0  ]
+Thread Id: 3 Data Id: 488[ Label: 1250 10 2 3 0  ]
+Thread Id: 3 Data Id: 489[ Label: 1 0.5 2 7 288  ]
+Thread Id: 3 Data Id: 490[ Label: 561 2.04 1 6 370  ]
+Thread Id: 3 Data Id: 491[ Label: 1201 6.5 2 13 330  ]
+Thread Id: 3 Data Id: 492[ Label: 2 2.04 1 1 120  ]
+Thread Id: 3 Data Id: 493[ Label: 1 11 1 6 120  ]
+Thread Id: 3 Data Id: 494[ Label: 1 0.75 1 8 240  ]
+Thread Id: 3 Data Id: 495[ Label: 45 0.375 2 13 300  ]
+Thread Id: 3 Data Id: 496[ Label: 24 0.75 2 8 349  ]
+Thread Id: 3 Data Id: 497[ Label: 1431 1.04 2 8 300  ]
+Thread Id: 3 Data Id: 498[ Label: 1 0.375 3 13 300  ]
+Thread Id: 3 Data Id: 499[ Label: 1392 7 2 8 200  ]
+Thread Id: 3 Data Id: 500[ Label: 100001 22 3 1 450  ]
+Thread Id: 3 Data Id: 501[ Label: 1 6.75 1 7 140  ]
+Thread Id: 3 Data Id: 502[ Label: 2511 2.5 2 7 410  ]
+Thread Id: 3 Data Id: 503[ Label: 1 8.5 2 10 0  ]
+Thread Id: 3 Data Id: 504[ Label: 1001 4 1 9 120  ]
+Thread Id: 3 Data Id: 505[ Label: 401 9.5 2 11 60  ]
+Thread Id: 3 Data Id: 506[ Label: 6 11.665 2 4 320  ]
+Thread Id: 3 Data Id: 507[ Label: 2 10 2 9 120  ]
+Thread Id: 3 Data Id: 508[ Label: 1 2.5 1 9 200  ]
+Thread Id: 3 Data Id: 509[ Label: 1 3.5 2 9 329  ]
+Thread Id: 3 Data Id: 510[ Label: 3 0.75 1 12 132  ]
+Thread Id: 3 Data Id: 511[ Label: 14 10.25 2 8 320  ]
+Thread Id: 3 Data Id: 512[ Label: 68 3 2 9 300  ]
+Thread Id: 3 Data Id: 513[ Label: 1 10.5 2 11 0  ]
+Thread Id: 3 Data Id: 514[ Label: 1 11.5 2 3 0  ]
+Thread Id: 3 Data Id: 515[ Label: 1 3.5 2 2 300  ]
+Thread Id: 3 Data Id: 516[ Label: 235 7.5 2 4 160  ]
+Thread Id: 3 Data Id: 517[ Label: 1 2.335 2 3 80  ]
+Thread Id: 3 Data Id: 518[ Label: 1 4.25 2 13 120  ]
+Thread Id: 3 Data Id: 519[ Label: 2 1.665 2 1 340  ]
+Thread Id: 3 Data Id: 520[ Label: 10001 1.04 2 9 500  ]
+Thread Id: 3 Data Id: 521[ Label: 2 10 2 9 120  ]
+Thread Id: 3 Data Id: 522[ Label: 501 1 2 11 167  ]
+Thread Id: 3 Data Id: 523[ Label: 919 6 2 6 80  ]
+Thread Id: 3 Data Id: 524[ Label: 1 11 2 14 121  ]
+Thread Id: 3 Data Id: 525[ Label: 1 0.5 2 8 360  ]
+Thread Id: 3 Data Id: 526[ Label: 1 9 1 9 154  ]
+Thread Id: 3 Data Id: 527[ Label: 1 1 2 11 263  ]
+Thread Id: 3 Data Id: 528[ Label: 88 0.585 1 1 120  ]
+Thread Id: 3 Data Id: 529[ Label: 6 0.54 2 8 80  ]
+Thread Id: 3 Data Id: 530[ Label: 1 2.5 1 9 280  ]
+Thread Id: 3 Data Id: 531[ Label: 1 0.335 2 11 160  ]
+Thread Id: 3 Data Id: 532[ Label: 1 1.08 2 7 28  ]
+Thread Id: 3 Data Id: 533[ Label: 101 1.415 2 9 240  ]
+Thread Id: 3 Data Id: 534[ Label: 1 2.5 2 6 523  ]
+Thread Id: 3 Data Id: 535[ Label: 2504 1.835 2 11 220  ]
+Thread Id: 3 Data Id: 536[ Label: 1 2.75 2 3 180  ]
+Thread Id: 3 Data Id: 537[ Label: 1 0.83 2 8 128  ]
+Thread Id: 3 Data Id: 538[ Label: 6591 12 2 11 0  ]
+Thread Id: 3 Data Id: 539[ Label: 301 4.46 2 13 311  ]
+Thread Id: 3 Data Id: 540[ Label: 1 0.79 2 3 144  ]
+Thread Id: 3 Data Id: 541[ Label: 1 14.585 2 3 178  ]
+Thread Id: 3 Data Id: 542[ Label: 16 2 2 7 0  ]
+Thread Id: 3 Data Id: 543[ Label: 180 1.085 1 8 170  ]
+Thread Id: 3 Data Id: 544[ Label: 6 7 2 11 300  ]
+Thread Id: 3 Data Id: 545[ Label: 723 0.085 1 8 140  ]
+Thread Id: 3 Data Id: 546[ Label: 4 2.29 2 1 200  ]
+Thread Id: 3 Data Id: 547[ Label: 1 0.17 2 7 0  ]
+Thread Id: 3 Data Id: 548[ Label: 1 1.25 1 3 160  ]
+Thread Id: 3 Data Id: 549[ Label: 1 11 1 2 0  ]
+Thread Id: 3 Data Id: 550[ Label: 59 2.75 2 9 60  ]
+Thread Id: 3 Data Id: 551[ Label: 15109 0.375 2 7 260  ]
+Thread Id: 3 Data Id: 552[ Label: 238 1.04 2 6 240  ]
+Thread Id: 3 Data Id: 553[ Label: 1 19 2 1 94  ]
+Thread Id: 3 Data Id: 554[ Label: 1 1.585 1 1 320  ]
+Thread Id: 3 Data Id: 555[ Label: 1001 4 1 3 360  ]
+Thread Id: 3 Data Id: 556[ Label: 1 2.415 1 8 120  ]
+Thread Id: 3 Data Id: 557[ Label: 201 1.5 2 8 422  ]
+Thread Id: 3 Data Id: 558[ Label: 7 9 2 1 70  ]
+Thread Id: 3 Data Id: 559[ Label: 15001 0.29 2 8 0  ]
+Thread Id: 3 Data Id: 560[ Label: 3 2.5 1 8 0  ]
+Thread Id: 3 Data Id: 561[ Label: 1 3 2 11 80  ]
+Thread Id: 3 Data Id: 562[ Label: 2 0.625 1 6 180  ]
+Thread Id: 3 Data Id: 563[ Label: 1 2.5 2 13 348  ]
+Thread Id: 3 Data Id: 564[ Label: 1 18.5 2 2 0  ]
+Thread Id: 3 Data Id: 565[ Label: 1 6.665 2 11 0  ]
+Thread Id: 3 Data Id: 566[ Label: 1 0 2 8 0  ]
+Thread Id: 3 Data Id: 567[ Label: 1 1.75 2 9 163  ]
+Thread Id: 3 Data Id: 568[ Label: 1 4.585 2 4 240  ]
+Thread Id: 3 Data Id: 569[ Label: 1 2.71 1 7 80  ]
+Thread Id: 3 Data Id: 570[ Label: 252 0.75 2 11 220  ]
+Thread Id: 3 Data Id: 571[ Label: 2 7.25 2 7 100  ]
+Thread Id: 3 Data Id: 572[ Label: 301 1 2 3 0  ]
+Thread Id: 3 Data Id: 573[ Label: 1 1.5 2 9 160  ]
+Thread Id: 3 Data Id: 574[ Label: 3291 0.83 2 14 303  ]
+Thread Id: 3 Data Id: 575[ Label: 142 2.25 1 13 200  ]
+Thread Id: 3 Data Id: 576[ Label: 1 7 2 6 0  ]
+Thread Id: 3 Data Id: 577[ Label: 1 1.125 2 11 200  ]
+Thread Id: 3 Data Id: 578[ Label: 1 1.5 2 3 300  ]
+Thread Id: 3 Data Id: 579[ Label: 2 0.585 1 13 240  ]
+Thread Id: 3 Data Id: 580[ Label: 2029 12.5 2 4 24  ]
+Thread Id: 3 Data Id: 581[ Label: 1 3.04 1 14 70  ]
+Thread Id: 3 Data Id: 582[ Label: 1 4 2 7 360  ]
+Thread Id: 3 Data Id: 583[ Label: 1 4 2 7 360  ]
+Thread Id: 3 Data Id: 584[ Label: 205 0.875 1 8 280  ]
+Thread Id: 3 Data Id: 585[ Label: 222 9.17 2 8 0  ]
+Thread Id: 3 Data Id: 586[ Label: 91 25.21 2 11 760  ]
+Thread Id: 3 Data Id: 587[ Label: 1 6 2 4 0  ]
+Thread Id: 3 Data Id: 588[ Label: 5801 2.04 2 9 400  ]
+Thread Id: 3 Data Id: 589[ Label: 2 2.04 1 14 128  ]
+Thread Id: 3 Data Id: 590[ Label: 502 2.665 2 13 0  ]
+Thread Id: 3 Data Id: 591[ Label: 5001 19.5 2 8 0  ]
+Thread Id: 3 Data Id: 592[ Label: 1001 2.54 2 1 0  ]
+Thread Id: 3 Data Id: 593[ Label: 3001 2.415 2 8 200  ]
+Thread Id: 3 Data Id: 594[ Label: 151 5.835 2 9 465  ]
+Thread Id: 3 Data Id: 595[ Label: 1 7.835 1 3 184  ]
+Thread Id: 3 Data Id: 596[ Label: 1 10 1 8 40  ]
+Thread Id: 3 Data Id: 597[ Label: 201 2.5 2 9 239  ]
+Thread Id: 3 Data Id: 598[ Label: 1951 0.875 2 7 254  ]
+Thread Id: 3 Data Id: 599[ Label: 1 6.5 2 7 93  ]
+Thread Id: 3 Data Id: 600[ Label: 1001 9.54 2 3 200  ]
+Thread Id: 3 Data Id: 601[ Label: 640 3.25 2 11 102  ]
+Thread Id: 3 Data Id: 602[ Label: 397 10.04 2 14 60  ]
+Thread Id: 3 Data Id: 603[ Label: 5001 13.5 2 11 0  ]
+Thread Id: 3 Data Id: 604[ Label: 7 0.46 2 13 440  ]
+Thread Id: 3 Data Id: 605[ Label: 1 0 1 1 0  ]
+Thread Id: 3 Data Id: 606[ Label: 1 2.5 1 3 200  ]
+Thread Id: 3 Data Id: 607[ Label: 4701 1.625 2 8 186  ]
+Thread Id: 3 Data Id: 608[ Label: 51 2.04 2 9 180  ]
+Thread Id: 3 Data Id: 609[ Label: 2207 9.5 2 9 120  ]
+Thread Id: 3 Data Id: 610[ Label: 1211 4.25 2 8 117  ]
+Thread Id: 3 Data Id: 611[ Label: 4 0.75 1 2 240  ]
+Thread Id: 3 Data Id: 612[ Label: 1 0.25 2 3 0  ]
+Thread Id: 3 Data Id: 613[ Label: 1 1.71 1 7 400  ]
+Thread Id: 3 Data Id: 614[ Label: 949 0.42 2 8 220  ]
+Thread Id: 3 Data Id: 615[ Label: 9801 7.5 2 6 80  ]
+Thread Id: 3 Data Id: 616[ Label: 1 1.25 2 8 0  ]
+Thread Id: 3 Data Id: 617[ Label: 11 3 2 7 280  ]
+Thread Id: 3 Data Id: 618[ Label: 1 0.79 1 13 160  ]
+Thread Id: 3 Data Id: 619[ Label: 8 5.125 2 14 420  ]
+Thread Id: 3 Data Id: 620[ Label: 4001 2.25 2 3 640  ]
+Thread Id: 3 Data Id: 621[ Label: 541 9.25 2 11 60  ]
+Thread Id: 3 Data Id: 622[ Label: 246 5.875 2 11 120  ]
+Thread Id: 3 Data Id: 623[ Label: 2 1.79 2 8 136  ]
+Thread Id: 3 Data Id: 624[ Label: 1 5 2 9 70  ]
+Thread Id: 3 Data Id: 625[ Label: 1 2.21 1 6 188  ]
+Thread Id: 3 Data Id: 626[ Label: 1 1.665 2 11 440  ]
+Thread Id: 3 Data Id: 627[ Label: 1059 3.165 1 8 160  ]
+Thread Id: 1 Data Id: 628[ Label: 148 1.04 1 1 180  ]
+Thread Id: 1 Data Id: 629[ Label: 2 0.54 2 7 120  ]
+Thread Id: 1 Data Id: 630[ Label: 1 1.75 1 10 393  ]
+Thread Id: 1 Data Id: 631[ Label: 3 3.75 2 3 100  ]
+Thread Id: 1 Data Id: 632[ Label: 1 3.5 2 9 280  ]
+Thread Id: 1 Data Id: 633[ Label: 445 0.54 2 9 272  ]
+Thread Id: 1 Data Id: 634[ Label: 1 10.29 2 1 80  ]
+Thread Id: 1 Data Id: 635[ Label: 21 1.165 1 4 180  ]
+Thread Id: 1 Data Id: 636[ Label: 1 1.25 2 8 110  ]
+Thread Id: 1 Data Id: 637[ Label: 1 4.085 2 3 120  ]
+Thread Id: 1 Data Id: 638[ Label: 1 2 2 2 80  ]
+Thread Id: 1 Data Id: 639[ Label: 1 3.5 2 6 230  ]
+Thread Id: 1 Data Id: 640[ Label: 26 2.75 2 1 160  ]
+Thread Id: 1 Data Id: 641[ Label: 1237 2.04 1 11 455  ]
+Thread Id: 1 Data Id: 642[ Label: 501 25.125 2 14 515  ]
+Thread Id: 1 Data Id: 643[ Label: 1 12 2 8 80  ]
+Thread Id: 1 Data Id: 644[ Label: 39 5 2 11 0  ]
+Thread Id: 1 Data Id: 645[ Label: 1 0.5 2 2 252  ]
+Thread Id: 1 Data Id: 646[ Label: 6 0.75 2 8 140  ]
+Thread Id: 1 Data Id: 647[ Label: 1 0.835 2 13 100  ]
+Thread Id: 1 Data Id: 648[ Label: 226 1.5 1 8 0  ]
+Thread Id: 1 Data Id: 649[ Label: 169 9.335 2 11 381  ]
+Thread Id: 1 Data Id: 650[ Label: 1 1 2 11 280  ]
+Thread Id: 1 Data Id: 651[ Label: 81 3.165 1 4 280  ]
+Thread Id: 1 Data Id: 652[ Label: 1111 13 2 10 140  ]
+Thread Id: 1 Data Id: 653[ Label: 285 6.75 2 8 0  ]
+Thread Id: 1 Data Id: 654[ Label: 1063 12.5 2 2 180  ]
+Thread Id: 0 Data Id: 655[ Label: 1 3.165 1 14 380  ]
+Thread Id: 3 Data Id: 656[ Label: 1 3.165 1 14 380  ]
+Thread Id: 3 Data Id: 657[ Label: 317 1.625 2 8 0  ]
+Thread Id: 3 Data Id: 658[ Label: 1 0 1 5 86  ]
+Thread Id: 3 Data Id: 659[ Label: 1 0.665 2 8 100  ]
+Thread Id: 3 Data Id: 660[ Label: 1 2.71 1 13 211  ]
+Thread Id: 3 Data Id: 661[ Label: 1 0.415 2 3 144  ]
+Thread Id: 3 Data Id: 662[ Label: 1001 0.54 1 6 200  ]
+Thread Id: 3 Data Id: 663[ Label: 151 8.665 2 6 160  ]
+Thread Id: 3 Data Id: 664[ Label: 1 0 2 2 144  ]
+Thread Id: 3 Data Id: 665[ Label: 1 4 1 3 411  ]
+Thread Id: 3 Data Id: 666[ Label: 1211 4.5 1 8 200  ]
+Thread Id: 3 Data Id: 667[ Label: 1 1.25 2 1 80  ]
+Thread Id: 3 Data Id: 668[ Label: 123 1.5 2 8 372  ]
+Thread Id: 3 Data Id: 669[ Label: 1 4.46 2 8 80  ]
+Thread Id: 3 Data Id: 670[ Label: 1 5.5 2 11 228  ]
+Thread Id: 3 Data Id: 671[ Label: 1 2.54 1 8 0  ]
+Thread Id: 3 Data Id: 672[ Label: 51 10.21 2 1 0  ]
+Thread Id: 3 Data Id: 673[ Label: 1 12.335 2 11 120  ]
+Thread Id: 3 Data Id: 674[ Label: 1 0.5 2 8 491  ]
+Thread Id: 3 Data Id: 675[ Label: 18 12.5 1 4 0  ]
+Thread Id: 3 Data Id: 676[ Label: 1001 6.165 2 6 220  ]
+Thread Id: 3 Data Id: 677[ Label: 1 0.75 2 7 320  ]
+Thread Id: 3 Data Id: 678[ Label: 1 0.29 1 8 160  ]
+Thread Id: 3 Data Id: 679[ Label: 2733 0.205 1 4 380  ]
+Thread Id: 3 Data Id: 680[ Label: 1 0 2 8 0  ]
+Thread Id: 3 Data Id: 681[ Label: 1 16.5 1 8 80  ]
+Thread Id: 3 Data Id: 682[ Label: 1350 11.585 2 13 80  ]
+Thread Id: 3 Data Id: 683[ Label: 121 1.335 2 3 0  ]
+Thread Id: 3 Data Id: 684[ Label: 376 0.29 1 13 100  ]
+Thread Id: 3 Data Id: 685[ Label: 1 10.5 2 14 0  ]
+Thread Id: 3 Data Id: 686[ Label: 45 0.415 2 8 0  ]
+Thread Id: 3 Data Id: 687[ Label: 1 9.54 2 6 100  ]
+Thread Id: 3 Data Id: 688[ Label: 12 14.5 2 14 120  ]
+Thread Id: 0 Data Id: 689[ Label: 1 0.04 2 10 560  ]
+
