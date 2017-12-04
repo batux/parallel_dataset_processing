@@ -77,7 +77,6 @@ void Dataset::printAllDataRows() {
 					cout << "Thread Id: " << omp_get_thread_num() << " Data Id: " << counter << "[ " << dataItemAsText << " ]" << endl;
 					counter++;
 				}
-				#pragma omp taskwait
 			}
 		}
 	}
